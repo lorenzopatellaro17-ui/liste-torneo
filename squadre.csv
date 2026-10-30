@@ -2,7 +2,7 @@ Squadra,Cognome Nome,Numero,Certificato,Scad. Certificato,OK,Scad.Tesseramento,
 ANACONDAS,Matteo Bruno (Giugno 2001),7,OK,28/03/2027,NO,,Firma da Golee
 ANACONDAS,Angelo Albanese (Capitano),8,OK,,OK,,Firma Estratta
 ANACONDAS,Giuseppe Amorello,13,OK,,OK,,Firma Estratta
-ANACONDAS,Nanni D'amico,23,DA RINNOVARE,,OK,,Firma Estratta
+ANACONDAS,Nanni D'amico,23,OK,,OK,,Firma Estratta
 ANACONDAS,Andrea Schirò,25,OK,27/10/2027,NO,,Firma da Golee
 ANACONDAS,Stefano Piazza (Portiere),27,OK,10/11/2026,NO,,Firma da Golee
 ANACONDAS,Giuseppe Selvaggio,77,OK,22/01/2027,OK,,Firma Estratta
@@ -66,7 +66,7 @@ BLACK MAMBA,Giuliano Randazzo,20,OK,15/10/2027,NO,,Firma da Golee
 BLACK MAMBA,Riccardo Valenza,23,OK,09/02/2027,OK,,Firma Estratta
 BLACK MAMBA,Valerio Leo,47,OK,,OK,,Firma Estratta
 BLACK MAMBA,Alessandro Di cola,59,OK,23/10/2027,NO,,Firma da Golee
-BLACK MAMBA,Cristian Rosone,77,DA RINNOVARE,,OK,,Firma Estratta
+BLACK MAMBA,Cristian Rosone,77,OK,,OK,,Firma Estratta
 BOARS,Mirko Leone (Portiere),4,OK,15/10/2027,NO,,Firma da Golee
 BOARS,Davide Mosca,5,OK,,OK,,Firma Estratta
 BOARS,Giovanni Lombardo (Capitano),6,OK,10/01/2027,NO,,Firma da Golee
@@ -106,7 +106,7 @@ CROCODILES,Cesare Taormina (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Marco Casamento,7,OK,,OK,,Firma Estratta
 CROCODILES,Santo Pace,10,OK,,OK,,Firma Estratta
 CROCODILES,Danilo Pace,11,OK,,OK,,Firma Estratta
-CROCODILES,Giuseppe Bonfiglio,18,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+CROCODILES,Giuseppe Bonfiglio,18,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Antonino Pace,21,OK,,OK,,Firma Estratta
 CROCODILES,Giuseppe Prinzivalli,22,OK,19/01/2027,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Francesco Teresi (Capitano),23,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -164,6 +164,7 @@ FLAMINGOS,Juvan (Capitano),5,OK,14/10/2027,NO,,Firma da Golee
 FLAMINGOS,Vino,7,OK,11/05/2027,NO,,Firma da Golee
 FLAMINGOS,Jesinho,9,OK,12/10/2027,NO,,Firma da Golee
 FLAMINGOS,Gigi,10,OK,14/10/2027,NO,,Firma da Golee
+FLAMINGOS,Danistan Johnson,11,OK,29/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 FLAMINGOS,Domenico Gugliemo (Portiere),13,OK,15/09/2027,NO,,Firma da Golee
 FLAMINGOS,Kite,19,OK,26/11/2026,NO,,Firma da Golee
 FLAMINGOS,Nive,20,OK,,OK,,Firma Estratta
@@ -171,6 +172,7 @@ FLAMINGOS,Janan,21,OK,14/10/2027,NO,,Firma da Golee
 FOXES,Samuele Arcilesi,1,OK,16/09/2027,NO,,Firma da Golee
 FOXES,Emanuele Dentici,4,OK,15/10/2027,NO,,Firma da Golee
 FOXES,Giuseppe Di liberto,5,OK,05/10/2027,NO,,Firma da Golee
+FOXES,Giovanni Di martino,6,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 FOXES,Costantino Lo sardo,7,OK,15/10/2027,NO,,Firma da Golee
 FOXES,Davide Di martino (Capitano),8,OK,,OK,,Firma Estratta
 FOXES,Carmelo Sclafani,9,OK,07/05/2027,NO,,Firma da Golee
@@ -207,7 +209,7 @@ GRIFFINS,Francesco Ventimiglia (Portiere),4,OK,21/10/2027,NO,,Firma da Golee
 GRIFFINS,Salvo Ciaccio,7,OK,17/02/2027,OK,,Firma Estratta
 GRIFFINS,Salvatore Maone,10,OK,,NO,,Firma Estratta
 GRIFFINS,Gianluca Montevago,16,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-GRIFFINS,Antonino Lo verso,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+GRIFFINS,Antonino Lo verso,17,OK,13/02/2027,RINNOVO IMMEDIATO,,Firma Estratta
 GRIFFINS,Nicolò Aiello,28,OK,03/12/2026,NO,,Firma da Golee
 GRIFFINS,Mariano Alonzo,31,OK,24/11/2026,RINNOVO IMMEDIATO,,Firma Estratta
 GRIFFINS,Pino Greco (Capitano),38,OK,,OK,,Firma Estratta
@@ -232,7 +234,7 @@ HYPPOS,Fabio Vitale,77,OK,23/10/2027,NO,,Firma da Golee
 HYPPOS,Alessio Occello (Capitano),99,OK,,OK,,Firma Estratta
 JAGUARS,Giovanni Branca (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 JAGUARS,Carmelo Benefazio (Capitano),5,OK,,OK,,Firma Estratta
-JAGUARS,Giuseppe Moglie,11,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+JAGUARS,Giuseppe Moglie,11,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 JAGUARS,Salvo Lombardo,17,OK,,NO,,Firma Estratta
 JAGUARS,Giuseppe Sferruzza,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 JAGUARS,Giacomo Zarcone,27,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -267,10 +269,10 @@ KRAKENS,Mattias Maniscalco,16,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 KRAKENS,Salvo Terzo,21,OK,,OK,,Firma Estratta
 LADYBUGS,Giuseppe Zappavigna (Capitano),4,OK,,OK,,Firma Estratta
 LADYBUGS,Gabriele Baglione,7,OK,,OK,,Firma Estratta
-LADYBUGS,MIchele Piscitello,9,OK,,OK,,Firma Estratta
+LADYBUGS,Michele Piscitello,9,OK,,OK,,Firma Estratta
 LADYBUGS,Gaetano Stagno,10,OK,29/11/2026,OK,,Firma Estratta
 LADYBUGS,Giuseppe Orso,11,OK,,OK,,Firma Estratta
-LADYBUGS,Cristian Selvaggio,21,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+LADYBUGS,Cristian Selvaggio,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 LADYBUGS,Piero Caruso,22,OK,26/11/2026,OK,,Firma Estratta
 LADYBUGS,Michele Morana (Portiere),77,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 LAMAS,Giuseppe Scordato (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -396,7 +398,7 @@ PIRANHA,Samuele Reina,27,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PIRANHA,Luigi Russo,74,OK,,OK,,Firma Estratta
 PIRANHA,Kevin Cardullo (Portiere),99,OK,15/10/2027,NO,,Firma da Golee
 PUMAS,Davide Carta (Portiere),1,OK,,OK,,Firma Estratta
-PUMAS,Emmanuel Clemente (Capitano),4,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+PUMAS,Emmanuel Clemente (Capitano),4,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Carmelo Saia,6,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Davide Bartolotta,7,OK,,OK,,Firma Estratta
 PUMAS,Antonino Ganci,8,OK,22/10/2027,NO,,Firma da Golee
@@ -449,6 +451,7 @@ SNAKES,Marco Pitti,7,OK,27/03/2027,NO,,Firma da Golee
 SNAKES,Emanuele Costa (1991),8,OK,,OK,,Firma Estratta
 SNAKES,Salvatore Troìa,9,OK,15/10/2027,NO,,Firma da Golee
 SNAKES,Dario Mazza,10,OK,,OK,,Firma Estratta
+SNAKES,Enrico Spadafora,11,OK,26/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 SNAKES,Giovanni Troìa,15,OK,15/10/2027,NO,,Firma da Golee
 SNAKES,Danilo Bellomonte,21,OK,,OK,,Firma Estratta
 SNAKES,Andrea Favaloro (Portiere),30,OK,06/10/2027,NO,,Firma da Golee
@@ -477,6 +480,7 @@ TIGERS,Salvatore Camarda (Portiere),99,OK,12/09/2027,NO,,Firma da Golee
 UNICORNS,Emanuele Marino (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 UNICORNS,Samuele Mazzola,4,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 UNICORNS,Roberto Pizzimenti,7,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+UNICORNS,Giuseppe La torre,10,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 UNICORNS,Antonino Aruta,14,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 UNICORNS,Giuseppe Aruta (Capitano),19,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 UNICORNS,Andrea Marsala,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -491,9 +495,9 @@ WHALES,Marco Spatola (Portiere),24,OK,09/10/2027,NO,,Firma da Golee
 WHALES,Natale Prestigiacomo (Capitano),25,OK,,OK,,Firma Estratta
 WHALES,Samuele Impallomeni,77,OK,,OK,,Firma Estratta
 WHITE PANTHERS ,Alessandro Vassallo,7,OK,,OK,,Firma Estratta
-WHITE PANTHERS ,Placido Biondo,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+WHITE PANTHERS ,Placido Biondo,10,ASSENTE,,RINNOVO IMMEDIATO,,Firma Estratta
 WHITE PANTHERS ,Giovanni Gottuso (Portiere),12,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-WHITE PANTHERS ,Cristian Billeci,21,OK,24/10/2027,NO,,Firma da Golee
+WHITE PANTHERS ,Cristian Billeci,21,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 WHITE PANTHERS ,Natale D'amore,29,OK,,OK,,Firma Estratta
 WHITE PANTHERS ,Carlo Virzì,33,OK,,OK,,Firma Estratta
 WHITE PANTHERS ,Alessandro Billeci (Capitano),92,OK,,OK,,Firma Estratta
@@ -503,9 +507,9 @@ WOLVES ,Andrea Portaro,4,OK,,OK,,Firma Estratta
 WOLVES ,Riccardo Sodaro,7,OK,,OK,,Firma Estratta
 WOLVES ,Andrea Basile,10,OK,,OK,,Firma Estratta
 WOLVES ,Manuel Uzzo,11,OK,,OK,,Firma Estratta
-WOLVES ,Matteo Bruno (Gennaio 2001),18,OK,08/11/2026,RINNOVO IMMEDIATO,,Firma Estratta
+WOLVES ,Matteo Bruno (Gennaio 2001),18,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 WOLVES ,Alessandro Aversa,19,OK,21/10/2027,NO,,Firma da Golee
-WOLVES ,Pietro Di stefano (Capitano),21,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+WOLVES ,Pietro Di stefano (Capitano),21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 ZEBRAS ,Vincenzo Di raffaele (Capitano),3,OK,,OK,,Firma Estratta
 ZEBRAS ,Saverio Bruno,4,OK,09/10/2027,NO,,Firma da Golee
 ZEBRAS ,Marco Alfano,7,OK,05/10/2027,NO,,Firma da Golee
