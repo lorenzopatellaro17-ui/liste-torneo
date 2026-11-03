@@ -41,7 +41,7 @@ BEARS,Nicolò Villafrate,18,OK,15/10/2027,NO,,Firma da Golee
 BEARS,Giuseppe Grasso,22,OK,15/10/2027,NO,,Firma da Golee
 BEARS,Fabrizio D'amico,23,OK,15/10/2027,NO,,Firma da Golee
 BEES ,Federico Filpo,2,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-BEES ,Fabio Scavuzzo,3,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+BEES ,Fabio Scavuzzo,3,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BEES ,Roberto Scavuzzo (Capitano),4,OK,,OK,,Firma Estratta
 BEES ,Carmelo Piscitello,10,OK,12/01/2027,OK,,Firma Estratta
 BEES ,Marco Gottuso (Portiere),12,OK,,OK,,Firma Estratta
@@ -80,12 +80,12 @@ BUFFALOES,Gabriele Abbate,8,OK,30/09/2027,NO,,Firma da Golee
 BUFFALOES,Niko Matraschia,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BUFFALOES,Vincenzo Ferrante (Capitano),10,OK,,OK,,Firma Estratta
 BUFFALOES,Michele Rao,11,OK,29/05/2027,NO,,Firma da Golee
-BUFFALOES,Francesco Sanzo,17,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+BUFFALOES,Francesco Sanzo,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BUFFALOES,Giovanni Siino,20,OK,,OK,,Firma Estratta
 BUFFALOES,Lucas Benincasa,21,OK,,OK,,Firma Estratta
 BUFFALOES,Cristian Corrao,22,OK,25/05/2027,NO,,Firma da Golee
 BUFFALOES,Leonardo Mangione (Portiere),27,OK,27/08/2027,NO,,Firma da Golee
-BUFFALOES,Vittorio Giammona,92,DA RINNOVARE,,OK,,Firma Estratta
+BUFFALOES,Vittorio Giammona,92,OK,,OK,,Firma Estratta
 CAMELS,Gaetano Gallina,0,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CAMELS,Giuseppe Signorello (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CAMELS,Salvo Milone,27,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -118,13 +118,13 @@ CROWS,Riccardo Di paola,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROWS,Salvo Gelfo,22,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROWS,Benny Cusimano (Portiere),32,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROWS,Marco Pivetti,69,DA RINNOVARE,,OK,,Firma Estratta
-DIRIGENTE,Cristian Bonura,0,,,OK,,
-DIRIGENTE,Cristian Ferro,0,,,RINNOVO IMMEDIATO,,
-DIRIGENTE,Erick Rosario Coniglio,0,,,RINNOVO IMMEDIATO,,
-DIRIGENTE,Francesco Paolo Costa,0,,,RINNOVO IMMEDIATO,,
-DIRIGENTE,Gaetano Accetta,0,,,RINNOVO IMMEDIATO,,
-DIRIGENTE,Lorenzo Patellaro,0,,,OK,,
-DIRIGENTE,Santo Congedato,0,,,OK,,
+ORGANIZZAZIONE,Cristian Bonura,0,,,OK,,
+ORGANIZZAZIONE,Cristian Ferro,0,,,RINNOVO IMMEDIATO,,
+ORGANIZZAZIONE,Erick Rosario Coniglio,0,,,RINNOVO IMMEDIATO,,
+ORGANIZZAZIONE,Francesco Paolo Costa,0,,,RINNOVO IMMEDIATO,,
+ORGANIZZAZIONE,Gaetano Accetta,0,,,RINNOVO IMMEDIATO,,
+ORGANIZZAZIONE,Lorenzo Patellaro,0,,,OK,,
+ORGANIZZAZIONE,Santo Congedato,0,,,OK,,
 DOBERMANN,Giuseppe Zocco (Portiere),1,OK,07/05/2027,NO,,Firma da Golee
 DOBERMANN,Simone Sicilia,3,OK,,OK,,Firma Estratta
 DOBERMANN,Dario Fiume (Capitano),7,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -172,7 +172,7 @@ FLAMINGOS,Janan,21,OK,14/10/2027,NO,,Firma da Golee
 FOXES,Samuele Arcilesi,1,OK,16/09/2027,NO,,Firma da Golee
 FOXES,Emanuele Dentici,4,OK,15/10/2027,NO,,Firma da Golee
 FOXES,Giuseppe Di liberto,5,OK,05/10/2027,NO,,Firma da Golee
-FOXES,Giovanni Di martino,6,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+FOXES,Giovanni Di martino,6,OK,30/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 FOXES,Costantino Lo sardo,7,OK,15/10/2027,NO,,Firma da Golee
 FOXES,Davide Di martino (Capitano),8,OK,,OK,,Firma Estratta
 FOXES,Carmelo Sclafani,9,OK,07/05/2027,NO,,Firma da Golee
@@ -248,7 +248,7 @@ KANGAROOS,Gaetano Galluzzo,7,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 KANGAROOS,Salvo Di stefano,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 KANGAROOS,Salvatore Castelluzzo,10,OK,09/10/2027,NO,,Firma da Golee
 KANGAROOS,Michael Pedivellano (Capitano),11,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-KANGAROOS,Marco La motta,17,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+KANGAROOS,Marco La motta,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 KANGAROOS,Alessandro Marino,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 KANGAROOS,Fabio Errante (Portiere),41,OK,23/02/2027,RINNOVO IMMEDIATO,,Firma Estratta
 KING COBRAS,Ivan Pistone (Portiere),1,OK,15/10/2027,NO,,Firma da Golee
@@ -454,6 +454,7 @@ SNAKES,Dario Mazza,10,OK,,OK,,Firma Estratta
 SNAKES,Enrico Spadafora,11,OK,26/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 SNAKES,Giovanni Troìa,15,OK,15/10/2027,NO,,Firma da Golee
 SNAKES,Danilo Bellomonte,21,OK,,OK,,Firma Estratta
+SNAKES,Pietro Randazzo,22,OK,26/02/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 SNAKES,Andrea Favaloro (Portiere),30,OK,06/10/2027,NO,,Firma da Golee
 SPIDERS,Emiliano Bruno,7,OK,,OK,,Firma Estratta
 SPIDERS,Danilo D'anna,10,OK,23/01/2027,RINNOVO IMMEDIATO,,Firma Estratta
@@ -469,6 +470,7 @@ T-REXES,Jonathan Mazzola,10,OK,,OK,,Firma Estratta
 T-REXES,Domenico Cracolici,11,OK,,OK,,Firma Estratta
 T-REXES,Samuele Altieri,17,OK,20/02/2027,OK,24/11/2026,Firma Estratta
 T-REXES,Paolo Cusimano,20,OK,23/09/2027,NO,,Firma da Golee
+T-REXES,Salvo Romeo,7,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 T-REXES,Giuseppe Noto,21,OK,,OK,,Firma Estratta
 TIGERS,Luca Taormina Oliveira,5,OK,15/10/2027,NO,,Firma da Golee
 TIGERS,Calogero Simonetti (Capitano),7,OK,07/10/2027,NO,,Firma da Golee
@@ -517,3 +519,63 @@ ZEBRAS ,Gery D'anna,10,OK,28/12/2026,OK,,Firma Estratta
 ZEBRAS ,Matteo Greco,11,OK,09/10/2027,NO,,Firma da Golee
 ZEBRAS ,Marco Todaro,92,OK,14/09/2027,NO,,Firma da Golee
 ZEBRAS ,Vincenzo Bonanno (Portiere),97,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+DIRIGENTE,Nessuno (Anacondas),,,,,,
+DIRIGENTE,Nessuno (Ants),,,,,,
+DIRIGENTE,Nessuno (Babbalux) ,,,,,,
+DIRIGENTE,Luigi Di maggio (Bats),,,,,,
+DIRIGENTE,"Se si presenta, ok Mimmo Parello (Bears)",,,,,,
+DIRIGENTE,Gaetano Filpo (Bees),,,,,,
+DIRIGENTE,Nessuno (Bisons),,,,,,
+DIRIGENTE,Antonio Toni Di marco (Black Mamba),,,,,,
+DIRIGENTE,"Se si presenta, ok Riccardo Machì (Boars)",,,,,,
+DIRIGENTE,Nessuno (Buffaloes),,,,,,
+DIRIGENTE,Emanuel Manno (Camels),,,,,,
+DIRIGENTE,Nessuno (Chamleons),,,,,,
+DIRIGENTE,Nessuno (Crocodiles),,,,,,
+DIRIGENTE,Mirko Di paola (Crows),,,,,,
+DIRIGENTE,Nessuno (Dobermann),,,,,,
+DIRIGENTE,Nessuno (Dragons),,,,,,
+DIRIGENTE,Nessuno (Eagles),,,,,,
+DIRIGENTE,Nessuno (Falcons),,,,,,
+DIRIGENTE,Pugal (Flamingos),,,,,,
+DIRIGENTE,Nessuno (Foxes),,,,,,
+DIRIGENTE,Alessandro Di girolamo/Cristian Ferro (Gibbons),,,,,,
+DIRIGENTE,Nessuno (Goats),,,,,,
+DIRIGENTE,Nessuno (Gorillas),,,,,,
+DIRIGENTE,Nessuno (Griffins),,,,,,
+DIRIGENTE,Gaspare Guzzetta (Horses),,,,,,
+DIRIGENTE,Nessuno (Hyppos),,,,,,
+DIRIGENTE,Nessuno (Jaguars),,,,,,
+DIRIGENTE,Nessuno (Kangaroos),,,,,,
+DIRIGENTE,Nessuno (King Cobras),,,,,,
+DIRIGENTE,Giuseppe Mendola/Andrea Cannioto (Krakens),,,,,,
+DIRIGENTE,Padre Pietro Caruso (Ladybugs),,,,,,
+DIRIGENTE,Nessuno (Lamas),,,,,,
+DIRIGENTE,Mattia Siragusa (Leopards),,,,,,
+DIRIGENTE,Nessuno (Mammuts),,,,,,
+DIRIGENTE,Nessuno (Mantas),,,,,,
+DIRIGENTE,Nessuno (Monkeys),,,,,,
+DIRIGENTE,Nessuno (Octopus),,,,,,
+DIRIGENTE,Nessuno (Orangutans),,,,,,
+DIRIGENTE,Mattia Siragusa (Orcas),,,,,,
+DIRIGENTE,Nessuno (Owls),,,,,,
+DIRIGENTE,Nessuno (Pandas),,,,,,
+DIRIGENTE,Giorgia Di Paola (Parrots),,,,,,
+DIRIGENTE,Nessuno (Pegasos),,,,,,
+DIRIGENTE,Nessuno (Phoenix),,,,,,
+DIRIGENTE,Nessuno (Piranha),,,,,,
+DIRIGENTE,Nessuno (Pumas),,,,,,
+DIRIGENTE,Samuele Lo Presti (Raccons),,,,,,
+DIRIGENTE,Nessuno (Rats),,,,,,
+DIRIGENTE,Nessuno (Rhinos),,,,,,
+DIRIGENTE,Gabriele Acquaviva (Scorpions),,,,,,
+DIRIGENTE,Roberto Di cesare (Sharks),,,,,,
+DIRIGENTE,Nessuno (Snakes),,,,,,
+DIRIGENTE,Nessuno (Spiders),,,,,,
+DIRIGENTE,Sergio Mazzola (T-rexes),,,,,,
+DIRIGENTE,Nessuno (Tigers),,,,,,
+DIRIGENTE,Nessuno (Unicorns),,,,,,
+DIRIGENTE,Toni Sponsor SASTD (Whales),,,,,,
+DIRIGENTE,"Se si presenta, ok Gigi Bonfardino (White Panthers)",,,,,,
+DIRIGENTE,Nessuno (Wolves),,,,,,
+DIRIGENTE,Nessuno (Zebras),,,,,,
