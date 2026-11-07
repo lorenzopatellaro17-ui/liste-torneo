@@ -4,7 +4,7 @@ ANACONDAS,Angelo Albanese (Capitano),8,OK,,OK,,Firma Estratta
 ANACONDAS,Giuseppe Amorello,13,OK,,OK,,Firma Estratta
 ANACONDAS,Nanni D'amico,23,OK,,OK,,Firma Estratta
 ANACONDAS,Andrea Schirò,25,OK,27/10/2027,NO,,Firma da Golee
-ANACONDAS,Stefano Piazza (Portiere),27,OK,10/11/2026,NO,,Firma da Golee
+ANACONDAS,Stefano Piazza (Portiere),27,DA RINNOVARE,,NO,,Firma da Golee
 ANACONDAS,Giuseppe Selvaggio,77,OK,22/01/2027,OK,,Firma Estratta
 ANTS,Giovanni Cinà (Capitano),10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 ANTS,Domenico Giglio,11,OK,14/07/2027,NO,,Firma da Golee
@@ -27,7 +27,7 @@ BATS,Alessio Vella (Capitano),4,OK,,OK,,Firma Estratta
 BATS,Christian Montalbano,7,OK,15/10/2027,NO,,Firma da Golee
 BATS,Kevin De lisi,10,OK,,OK,,Firma Estratta
 BATS,Benny Cusimano (Portiere),32,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-BATS,Gabriele Zauner,45,OK,04/11/2026,OK,,Firma Estratta
+BATS,Gabriele Zauner,45,DA RINNOVARE,,OK,,Firma Estratta
 BATS,Salvatore Lopes,69,OK,12/03/2027,NO,,Firma da Golee
 BATS,Antonio Vitti,73,OK,24/03/2027,NO,,Firma da Golee
 BATS,Carmelo Scurato,77,OK,,OK,,Firma Estratta
@@ -54,7 +54,6 @@ BISONS,Marco Urso (Capitano),4,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Simone Zappavigna,8,OK,20/10/2027,NO,,Firma da Golee
 BISONS,Hagy,10,OK,15/10/2027,NO,,Firma da Golee
 BISONS,Giuseppe Russello,13,OK,,OK,,Firma Estratta
-BISONS,Pietro Selvaggio,19,DA RINNOVARE,,OK,24/10/2026,Firma Estratta
 BISONS,Giulio Costanza,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Bruno Piromalli,26,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Eugenio Monaco (Portiere),47,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -93,7 +92,7 @@ CAMELS,Filippo Caviglia,33,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CAMELS,Francesco Salamone,46,OK,,OK,18/12/2026,Firma Estratta
 CAMELS,Nino Seidita (Capitano),57,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CAMELS,Filippo Macaluso,71,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-CAMELS,Marco Castelli,72,OK,,OK,,Firma Estratta
+CAMELS,Marco Castelli,72,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 CHAMLEONS,Francesco Romano,4,OK,,OK,,Firma Estratta
 CHAMLEONS,Giuseppe Seidita (Capitano),6,OK,10/02/2027,OK,,Firma Estratta
 CHAMLEONS,Emanuele Costa (1989),8,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -184,6 +183,7 @@ FOXES,Vittorio Quattrocchi,17,OK,,OK,,Firma Estratta
 GIBBONS,Giovanni Compagno (Portiere),1,OK,08/06/2027,NO,,Firma da Golee
 GIBBONS,Antonio Scianna,3,OK,28/04/2027,NO,,Firma da Golee
 GIBBONS,Federico Vitale,4,OK,28/04/2027,NO,,Firma da Golee
+GIBBONS,Emanuele La Bella,8,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 GIBBONS,Gabriele Lo verso (Capitano),10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 GIBBONS,Mattia La fata,20,OK,18/10/2027,NO,,Firma da Golee
 GIBBONS,Claudio Giordano,22,OK,23/10/2027,NO,,Firma da Golee
@@ -279,9 +279,9 @@ LAMAS,Giuseppe Scordato (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 LAMAS,Francesco Graviano,4,OK,,OK,,Firma Estratta
 LAMAS,Salvo La licata,5,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 LAMAS,Giusto Galluzzo (Capitano),6,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-LAMAS,Danilo Basile,7,OK,,OK,,Firma Estratta
+LAMAS,Danilo Basile,7,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 LAMAS,Benny Lombardo,17,OK,,OK,,Firma Estratta
-LAMAS,Cristian Priola,23,ASSENTE,,NO,,Firma da Golee
+LAMAS,Cristian Priola,23,OK,04/11/2027,NO,,Firma da Golee
 LAMAS,Anthony Cardella,26,OK,27/01/2027,OK,,Firma Estratta
 LEOPARDS,Angelo Rubino,4,OK,23/10/2027,NO,,Firma da Golee
 LEOPARDS,Shaidul Abdul,6,OK,13/01/2027,NO,,Firma da Golee
@@ -355,6 +355,7 @@ OWLS,Enrico Sanfilippo,11,OK,29/09/2027,NO,,Firma da Golee
 OWLS,Emanuel Patti,16,OK,,OK,,Firma Estratta
 OWLS,Gabriele Bruno,18,OK,,OK,,Firma Estratta
 OWLS,Samuele Arusa,23,OK,,OK,,Firma Estratta
+OWLS,Alfredo Truddaiu,99,OK,17/08/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PANDAS,David Iacona,6,OK,,OK,,Firma Estratta
 PANDAS,Marco Moneti (Capitano),8,OK,,OK,,Firma Estratta
 PANDAS,Angelo Iacona,9,OK,,OK,,Firma Estratta
@@ -376,7 +377,7 @@ PEGASOS,Alessandro Basile (Portiere),1,OK,16/12/2026,OK,,Firma Estratta
 PEGASOS,Matteo Megna,7,OK,15/10/2027,NO,,Firma da Golee
 PEGASOS,Gabriele Palmeri,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PEGASOS,Leandro Piazzese,11,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-PEGASOS,Angelo Marchese,15,OK,04/11/2026,NO,,Firma da Golee
+PEGASOS,Angelo Marchese,15,OK,03/11/2027,NO,,Firma da Golee
 PEGASOS,Lorenzo Fuschi,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PEGASOS,Francesco Palmeri (Capitano),23,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PEGASOS,Anthony Tramonte,26,OK,12/10/2027,NO,,Firma da Golee
@@ -389,6 +390,7 @@ PHOENIX,Gabriele Pennacchio (Pennacchio Jr),18,OK,20/07/2027,NO,,Firma da Golee
 PHOENIX,Vittorio Pennacchio,18,OK,08/09/2027,NO,,Firma da Golee
 PHOENIX,Andrea Taverna,21,OK,15/10/2027,NO,,Firma da Golee
 PHOENIX,Cristian Pennino,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+PIRANHA,Fabrizio Lo presti,5,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PIRANHA,Stefano Alfano,7,OK,15/10/2027,NO,,Firma da Golee
 PIRANHA,Giuseppe D'amico,9,OK,,OK,,Firma Estratta
 PIRANHA,Matteo Cammarata,10,OK,15/10/2027,NO,,Firma da Golee
@@ -403,6 +405,8 @@ PUMAS,Carmelo Saia,6,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Davide Bartolotta,7,OK,,OK,,Firma Estratta
 PUMAS,Antonino Ganci,8,OK,22/10/2027,NO,,Firma da Golee
 PUMAS,Samuele Scalici,10,OK,,OK,,Firma Estratta
+PUMAS,Francesco Cilio,9,OK,05/02/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+PUMAS,Roberto Gambino,3,OK,13/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PUMAS,Giuseppe Pane,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Domenico Clemente,88,OK,,OK,,Firma Estratta
 RACCONS,Dario Geraci,5,OK,,OK,,Firma Estratta
@@ -410,7 +414,7 @@ RACCONS,Giuseppe Palmeri,10,OK,,OK,,Firma Estratta
 RACCONS,Manuel La gattuta,12,OK,22/11/2026,OK,,Firma Estratta
 RACCONS,Giovanni Colletta,15,OK,,OK,,Firma Estratta
 RACCONS,Gabriele Macaluso,22,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-RACCONS,Antonino Picciurro (Capitano),27,OK,,OK,,Firma Estratta
+RACCONS,Antonino Picciurro (Capitano),27,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 RACCONS,Vincenzo La vardera (Portiere),70,OK,17/10/2027,NO,,Firma da Golee
 RATS,Francesco Pizzurro (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 RATS,Giuseppe Bellanti,4,OK,07/10/2027,NO,,Firma da Golee
@@ -454,7 +458,7 @@ SNAKES,Dario Mazza,10,OK,,OK,,Firma Estratta
 SNAKES,Enrico Spadafora,11,OK,26/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 SNAKES,Giovanni Troìa,15,OK,15/10/2027,NO,,Firma da Golee
 SNAKES,Danilo Bellomonte,21,OK,,OK,,Firma Estratta
-SNAKES,Pietro Randazzo,22,OK,26/02/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+SNAKES,Pietro Randazzo,22,OK,26/02/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 SNAKES,Andrea Favaloro (Portiere),30,OK,06/10/2027,NO,,Firma da Golee
 SPIDERS,Emiliano Bruno,7,OK,,OK,,Firma Estratta
 SPIDERS,Danilo D'anna,10,OK,23/01/2027,RINNOVO IMMEDIATO,,Firma Estratta
@@ -470,7 +474,7 @@ T-REXES,Jonathan Mazzola,10,OK,,OK,,Firma Estratta
 T-REXES,Domenico Cracolici,11,OK,,OK,,Firma Estratta
 T-REXES,Samuele Altieri,17,OK,20/02/2027,OK,24/11/2026,Firma Estratta
 T-REXES,Paolo Cusimano,20,OK,23/09/2027,NO,,Firma da Golee
-T-REXES,Salvo Romeo,7,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
+T-REXES,Salvo Romeo,33,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 T-REXES,Giuseppe Noto,21,OK,,OK,,Firma Estratta
 TIGERS,Luca Taormina Oliveira,5,OK,15/10/2027,NO,,Firma da Golee
 TIGERS,Calogero Simonetti (Capitano),7,OK,07/10/2027,NO,,Firma da Golee
@@ -579,3 +583,4 @@ DIRIGENTE,Toni Sponsor SASTD (Whales),,,,,,
 DIRIGENTE,"Se si presenta, ok Gigi Bonfardino (White Panthers)",,,,,,
 DIRIGENTE,Nessuno (Wolves),,,,,,
 DIRIGENTE,Nessuno (Zebras),,,,,,
+SVINCOLATI,Giuseppe La Torre,,,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
