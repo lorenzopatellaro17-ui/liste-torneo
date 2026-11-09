@@ -4,7 +4,7 @@ ANACONDAS,Angelo Albanese (Capitano),8,OK,,OK,,Firma Estratta
 ANACONDAS,Giuseppe Amorello,13,OK,,OK,,Firma Estratta
 ANACONDAS,Nanni D'amico,23,OK,,OK,,Firma Estratta
 ANACONDAS,Andrea Schirò,25,OK,27/10/2027,NO,,Firma da Golee
-ANACONDAS,Stefano Piazza (Portiere),27,DA RINNOVARE,,NO,,Firma da Golee
+ANACONDAS,Stefano Piazza (Portiere),27,OK,09/11/2027,NO,,Firma da Golee
 ANACONDAS,Giuseppe Selvaggio,77,OK,22/01/2027,OK,,Firma Estratta
 ANTS,Giovanni Cinà (Capitano),10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 ANTS,Domenico Giglio,11,OK,14/07/2027,NO,,Firma da Golee
@@ -27,7 +27,7 @@ BATS,Alessio Vella (Capitano),4,OK,,OK,,Firma Estratta
 BATS,Christian Montalbano,7,OK,15/10/2027,NO,,Firma da Golee
 BATS,Kevin De lisi,10,OK,,OK,,Firma Estratta
 BATS,Benny Cusimano (Portiere),32,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-BATS,Gabriele Zauner,45,DA RINNOVARE,,OK,,Firma Estratta
+BATS,Gabriele Zauner,45,OK,,OK,,Firma Estratta
 BATS,Salvatore Lopes,69,OK,12/03/2027,NO,,Firma da Golee
 BATS,Antonio Vitti,73,OK,24/03/2027,NO,,Firma da Golee
 BATS,Carmelo Scurato,77,OK,,OK,,Firma Estratta
@@ -102,6 +102,7 @@ CHAMLEONS,Salvo Giardina,11,OK,,OK,,Firma Estratta
 CHAMLEONS,Cristian Miceli,26,OK,17/10/2027,NO,,Firma da Golee
 CHAMLEONS,Michele Morana (Portiere),77,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Cesare Taormina (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+CROCODILES,Michele Milazzo,4,OK,06/11/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 CROCODILES,Marco Casamento,7,OK,,OK,,Firma Estratta
 CROCODILES,Santo Pace,10,OK,,OK,,Firma Estratta
 CROCODILES,Danilo Pace,11,OK,,OK,,Firma Estratta
@@ -180,6 +181,7 @@ FOXES,Fabrizio Pironti,11,OK,25/11/2026,NO,,Firma da Golee
 FOXES,Antonello Rubino (Portiere),12,OK,03/09/2027,NO,,Firma da Golee
 FOXES,Carmelo Bertolino,15,OK,15/10/2027,NO,,Firma da Golee
 FOXES,Vittorio Quattrocchi,17,OK,,OK,,Firma Estratta
+FOXES,Marco Marino,77,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 GIBBONS,Giovanni Compagno (Portiere),1,OK,08/06/2027,NO,,Firma da Golee
 GIBBONS,Antonio Scianna,3,OK,28/04/2027,NO,,Firma da Golee
 GIBBONS,Federico Vitale,4,OK,28/04/2027,NO,,Firma da Golee
@@ -390,7 +392,6 @@ PHOENIX,Gabriele Pennacchio (Pennacchio Jr),18,OK,20/07/2027,NO,,Firma da Golee
 PHOENIX,Vittorio Pennacchio,18,OK,08/09/2027,NO,,Firma da Golee
 PHOENIX,Andrea Taverna,21,OK,15/10/2027,NO,,Firma da Golee
 PHOENIX,Cristian Pennino,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-PIRANHA,Fabrizio Lo presti,5,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PIRANHA,Stefano Alfano,7,OK,15/10/2027,NO,,Firma da Golee
 PIRANHA,Giuseppe D'amico,9,OK,,OK,,Firma Estratta
 PIRANHA,Matteo Cammarata,10,OK,15/10/2027,NO,,Firma da Golee
