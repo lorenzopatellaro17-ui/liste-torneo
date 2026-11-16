@@ -57,7 +57,7 @@ BISONS,Giuseppe Russello,13,OK,,OK,,Firma Estratta
 BISONS,Giulio Costanza,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Bruno Piromalli,26,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Eugenio Monaco (Portiere),47,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-BLACK MAMBA,Alessandro Di girolamo,9,OK,17/11/2026,RINNOVO IMMEDIATO,,Firma Estratta
+BLACK MAMBA,Alessandro Di girolamo,9,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
 BLACK MAMBA,Francesco Di giovanni (Capitano),10,OK,04/12/2026,OK,,Firma Estratta
 BLACK MAMBA,Dario Amato (Portiere),12,OK,12/03/2027,NO,,Firma da Golee
 BLACK MAMBA,Francesco Guarneri,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -232,7 +232,7 @@ HYPPOS,Vittorio Calì,7,OK,,OK,,Firma Estratta
 HYPPOS,Davide Giulivi,8,OK,,NO,,Firma Estratta
 HYPPOS,Mattia Siragusa,10,OK,03/02/2027,OK,,Firma Estratta
 HYPPOS,Francesco Annaloro,18,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-HYPPOS,Francesco Grasso,20,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+HYPPOS,Francesco Grasso,20,OK,10/11/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 HYPPOS,Samuele Viola,21,OK,,OK,18/12/2026,Firma Estratta
 HYPPOS,Totò Lombardo (Portiere),29,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 HYPPOS,Fabio Vitale,77,OK,23/10/2027,NO,,Firma da Golee
@@ -357,7 +357,6 @@ OWLS,Antonio Sanfilippo (Capitano),8,OK,25/09/2027,NO,,Firma da Golee
 OWLS,Mattia Cinà,9,OK,29/09/2027,NO,,Firma da Golee
 OWLS,Alessandro Comito,10,OK,25/09/2027,NO,,Firma da Golee
 OWLS,Enrico Sanfilippo,11,OK,29/09/2027,NO,,Firma da Golee
-OWLS,Emanuel Patti,16,OK,,OK,,Firma Estratta
 OWLS,Gabriele Bruno,18,OK,,OK,,Firma Estratta
 OWLS,Samuele Arusa,23,OK,,OK,,Firma Estratta
 OWLS,Alfredo Truddaiu,99,OK,17/08/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
@@ -440,7 +439,7 @@ RHINOS,Marco Murò (Portiere),98,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 SCORPIONS,Salvo Adimino,7,OK,,OK,,Firma Estratta
 SCORPIONS,Antonino Tortorici,8,OK,,OK,,Firma Estratta
 SCORPIONS,Dario Spinnato,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-SCORPIONS,Settimo Failla,10,OK,17/11/2026,OK,,Firma Estratta
+SCORPIONS,Settimo Failla,10,DA RINNOVARE,,OK,,Firma Estratta
 SCORPIONS,Ezio Villano (Portiere),12,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 SCORPIONS,Davide Signorelli,13,OK,13/10/2027,NO,,Firma da Golee
 SCORPIONS,Daniele Russo,23,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -505,7 +504,7 @@ WHALES,Marco Spatola (Portiere),24,OK,09/10/2027,NO,,Firma da Golee
 WHALES,Natale Prestigiacomo (Capitano),25,OK,,OK,,Firma Estratta
 WHALES,Samuele Impallomeni,77,OK,,OK,,Firma Estratta
 WHITE PANTHERS ,Alessandro Vassallo,7,OK,,OK,,Firma Estratta
-WHITE PANTHERS ,Placido Biondo,10,ASSENTE,,RINNOVO IMMEDIATO,,Firma Estratta
+WHITE PANTHERS ,Placido Biondo,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 WHITE PANTHERS ,Giovanni Gottuso (Portiere),12,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 WHITE PANTHERS ,Cristian Billeci,21,OK,20/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 WHITE PANTHERS ,Natale D'amore,29,OK,,OK,,Firma Estratta
@@ -522,6 +521,7 @@ WOLVES ,Alessandro Aversa,19,OK,21/10/2027,NO,,Firma da Golee
 WOLVES ,Pietro Di stefano (Capitano),21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 ZEBRAS ,Vincenzo Di raffaele (Capitano),3,OK,,OK,,Firma Estratta
 ZEBRAS ,Saverio Bruno,4,OK,09/10/2027,NO,,Firma da Golee
+ZEBRAS ,Samuele Monte,5,OK,03/09/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 ZEBRAS ,Marco Alfano,7,OK,05/10/2027,NO,,Firma da Golee
 ZEBRAS ,Leonardo Matranga,9,OK,29/09/2027,NO,,Firma da Golee
 ZEBRAS ,Gery D'anna,10,OK,28/12/2026,OK,,Firma Estratta
@@ -589,3 +589,4 @@ DIRIGENTE,"Se si presenta, ok Gigi Bonfardino (White Panthers)",,,,,,
 DIRIGENTE,Nessuno (Wolves),,,,,,
 DIRIGENTE,Nessuno (Zebras),,,,,,
 SVINCOLATI,Giuseppe La Torre,,,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
+SVINCOLATI,Emanuel Patti,16,OK,,OK,,Firma Estratta
