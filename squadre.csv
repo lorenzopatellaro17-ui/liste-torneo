@@ -1,4 +1,4 @@
-Squadra,Cognome Nome,Numero,Certificato,Scad. Certificato,OK,Scad.Tesseramento,
+Squadra,Cognome Nome,Numero,Certificato,Scad. Certificato,NO,Scad.Tesseramento,
 ANACONDAS,Matteo Bruno (Giugno 2001),7,OK,28/03/2027,NO,,Firma da Golee
 ANACONDAS,Angelo Albanese (Capitano),8,OK,,OK,,Firma Estratta
 ANACONDAS,Giuseppe Amorello,13,OK,,OK,,Firma Estratta
@@ -57,7 +57,7 @@ BISONS,Giuseppe Russello,13,OK,,OK,,Firma Estratta
 BISONS,Giulio Costanza,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Bruno Piromalli,26,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BISONS,Eugenio Monaco (Portiere),47,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-BLACK MAMBA,Alessandro Di girolamo,9,DA RINNOVARE,,RINNOVO IMMEDIATO,,Firma Estratta
+BLACK MAMBA,Alessandro Di girolamo,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BLACK MAMBA,Francesco Di giovanni (Capitano),10,OK,04/12/2026,OK,,Firma Estratta
 BLACK MAMBA,Dario Amato (Portiere),12,OK,12/03/2027,NO,,Firma da Golee
 BLACK MAMBA,Francesco Guarneri,17,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -109,8 +109,8 @@ CROCODILES,Santo Pace,10,OK,,OK,,Firma Estratta
 CROCODILES,Danilo Pace,11,OK,,OK,,Firma Estratta
 CROCODILES,Giuseppe Bonfiglio,18,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Antonino Pace,21,OK,,OK,,Firma Estratta
-CROCODILES,Giuseppe Prinzivalli,22,OK,19/01/2027,RINNOVO IMMEDIATO,,Firma Estratta
-CROCODILES,Francesco Teresi (Capitano),23,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+CROCODILES,Giuseppe Prinzivalli (Capitano),22,OK,19/01/2027,RINNOVO IMMEDIATO,,Firma Estratta
+CROCODILES,Francesco Teresi,23,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROCODILES,Anthony Pisano,27,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROWS,Salvo Faulisi,8,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 CROWS,Luigi Di maggio (Capitano),10,OK,,OK,,Firma Estratta
@@ -126,7 +126,8 @@ ORGANIZZAZIONE,Francesco Paolo Costa,0,,,RINNOVO IMMEDIATO,,
 ORGANIZZAZIONE,Gaetano Accetta,0,,,RINNOVO IMMEDIATO,,
 ORGANIZZAZIONE,Lorenzo Patellaro,0,,,OK,,
 ORGANIZZAZIONE,Santo Congedato,0,,,OK,,
-DOBERMANN,Giuseppe Zocco (Portiere),1,OK,07/05/2027,NO,,Firma da Golee
+DOBERMANN,Paresh Chaudhary (Portiere),30,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+DOBERMANN,Giuseppe Zocco,10,OK,07/05/2027,NO,,Firma da Golee
 DOBERMANN,Simone Sicilia,3,OK,,OK,,Firma Estratta
 DOBERMANN,Dario Fiume (Capitano),7,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 DOBERMANN,Roberto Chifari,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -159,6 +160,7 @@ FALCONS ,Damiano Trubia,7,OK,15/10/2027,NO,,Firma da Golee
 FALCONS ,Gianluca Lo giudice,8,OK,15/10/2027,NO,,Firma da Golee
 FALCONS ,Diego Mannucci,9,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 FALCONS ,Luigi Ziletti,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+FALCONS ,Mirko Falzone,17,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 FALCONS ,Ivan Castelbuono,21,OK,,OK,,Firma Estratta
 FALCONS ,Luca Carbone,26,OK,15/10/2027,NO,,Firma da Golee
 FLAMINGOS,Juvan (Capitano),5,OK,14/10/2027,NO,,Firma da Golee
@@ -237,7 +239,7 @@ HYPPOS,Samuele Viola,21,OK,,OK,18/12/2026,Firma Estratta
 HYPPOS,Totò Lombardo (Portiere),29,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 HYPPOS,Fabio Vitale,77,OK,23/10/2027,NO,,Firma da Golee
 HYPPOS,Alessio Occello (Capitano),99,OK,,OK,,Firma Estratta
-JAGUARS,Giovanni Branca (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
+JAGUARS,Carmelo Branca (Portiere),1,OK,,OK,,Firma Estratta
 JAGUARS,Carmelo Benefazio (Capitano),5,OK,,OK,,Firma Estratta
 JAGUARS,Giuseppe Moglie,11,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 JAGUARS,Salvo Lombardo,17,OK,,NO,,Firma Estratta
@@ -291,7 +293,6 @@ LAMAS,Anthony Cardella,26,OK,27/01/2027,OK,,Firma Estratta
 LEOPARDS,Angelo Rubino,4,OK,23/10/2027,NO,,Firma da Golee
 LEOPARDS,Shaidul Abdul,6,OK,13/01/2027,NO,,Firma da Golee
 LEOPARDS,Salvo Mastrolembo,7,OK,22/12/2026,OK,19/01/2027,Firma Estratta
-LEOPARDS,Anthony Romano,10,OK,,OK,24/11/2026,Firma Estratta
 LEOPARDS,Alessio Occello (Capitano),17,OK,,OK,,Firma Estratta
 LEOPARDS,Giovanni Licata,18,OK,,OK,,Firma Estratta
 LEOPARDS,Vincenzo Bonanno (Portiere),20,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -407,7 +408,6 @@ PUMAS,Emmanuel Clemente (Capitano),4,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Carmelo Saia,6,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PUMAS,Davide Bartolotta,7,OK,,OK,,Firma Estratta
 PUMAS,Antonino Ganci,8,OK,22/10/2027,NO,,Firma da Golee
-PUMAS,Samuele Scalici,10,OK,,OK,,Firma Estratta
 PUMAS,Francesco Cilio,9,OK,05/02/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PUMAS,Roberto Gambino,3,OK,13/10/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PUMAS,Giuseppe Pane,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -473,6 +473,7 @@ SPIDERS,Pietro Minniti (Portiere),22,OK,,OK,,Firma Estratta
 SPIDERS,Simone Sciacca,77,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 SPIDERS,Gianluca Giuffrida,99,OK,,OK,,Firma Estratta
 T-REXES,Mirko Noto,58,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
+T-REXES,Umberto Lo Monaco (Portiere),49,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 T-REXES,Marco Colombo,8,OK,10/09/2027,NO,,Firma da Golee
 T-REXES,Jonathan Mazzola,10,OK,,OK,,Firma Estratta
 T-REXES,Domenico Cracolici,11,OK,,OK,,Firma Estratta
@@ -589,4 +590,4 @@ DIRIGENTE,"Se si presenta, ok Gigi Bonfardino (White Panthers)",,,,,,
 DIRIGENTE,Nessuno (Wolves),,,,,,
 DIRIGENTE,Nessuno (Zebras),,,,,,
 SVINCOLATI,Giuseppe La Torre,,,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
-SVINCOLATI,Emanuel Patti,16,OK,,OK,,Firma Estratta
+SVINCOLATI,Giovanni Branca (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
