@@ -18,7 +18,7 @@ ANTS,Domenico Messina,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BABBALUX,Natale Tarantino,0,OK,23/02/2027,NO,,Firma da Golee
 BABBALUX,Ivan Mannalà (Portiere),1,OK,,OK,,Firma Estratta
 BABBALUX,Giovanni Scivola Corrao (Capitano),5,OK,,OK,,Firma Estratta
-BABBALUX,Salvo Catanzaro,7,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
+BABBALUX,Salvo Catanzaro,7,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 BABBALUX,Giovanni Milano,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 BABBALUX,Giuseppe Di simone,21,OK,,OK,,Firma Estratta
 BABBALUX,Fabrizio Rizzo,27,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -126,7 +126,7 @@ ORGANIZZAZIONE,Francesco Paolo Costa,0,,,RINNOVO IMMEDIATO,,
 ORGANIZZAZIONE,Gaetano Accetta,0,,,RINNOVO IMMEDIATO,,
 ORGANIZZAZIONE,Lorenzo Patellaro,0,,,OK,,
 ORGANIZZAZIONE,Santo Congedato,0,,,OK,,
-DOBERMANN,Paresh Chaudhary (Portiere),30,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+DOBERMANN,Paresh Chaudhary (Portiere),30,OK,20/11/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 DOBERMANN,Giuseppe Zocco,10,OK,07/05/2027,NO,,Firma da Golee
 DOBERMANN,Simone Sicilia,3,OK,,OK,,Firma Estratta
 DOBERMANN,Dario Fiume (Capitano),7,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -264,7 +264,7 @@ KING COBRAS,Rosario Di maria,6,OK,14/10/2027,NO,,Firma da Golee
 KING COBRAS,Leo Tomasello,7,OK,14/09/2027,NO,,Firma da Golee
 KING COBRAS,Antonio Bargione (Capitano),8,OK,,OK,,Firma Estratta
 KING COBRAS,Alex Mazzara,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-KING COBRAS,Marco Tuttoilmondo,21,OK,28/11/2026,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
+KING COBRAS,Marco Tuttoilmondo,21,OK,24/11/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 KING COBRAS,Andrea Bargione,25,OK,09/10/2027,NO,,Firma da Golee
 KING COBRAS,Simone Mazzola,77,OK,,OK,,Firma Estratta
 KRAKENS,Manuel Costa,7,OK,,OK,,Firma Estratta
@@ -281,7 +281,7 @@ LADYBUGS,Michele Piscitello,9,OK,,OK,,Firma Estratta
 LADYBUGS,Gaetano Stagno,10,OK,29/11/2026,OK,,Firma Estratta
 LADYBUGS,Giuseppe Orso,11,OK,,OK,,Firma Estratta
 LADYBUGS,Cristian Selvaggio,21,OK,,RINNOVO IMMEDIATO,,Firma Estratta
-LADYBUGS,Piero Caruso,22,OK,26/11/2026,OK,,Firma Estratta
+LADYBUGS,Piero Caruso,22,OK,,OK,,Firma Estratta
 LADYBUGS,Michele Morana (Portiere),77,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 LAMAS,Mattia Scordato (Portiere),12,OK,15/12/2026,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 LAMAS,Giuseppe Scordato (Portiere),1,OK,,RINNOVO IMMEDIATO,,Firma Estratta
@@ -292,7 +292,7 @@ LAMAS,Danilo Basile,7,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 LAMAS,Benny Lombardo,17,OK,,OK,,Firma Estratta
 LAMAS,Cristian Priola,23,OK,04/11/2027,NO,,Firma da Golee
 LAMAS,Anthony Cardella,26,OK,27/01/2027,OK,,Firma Estratta
-LAMAS,Alessandro Priolo,29,ASSENTE,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
+LAMAS,Alessandro Priolo,29,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 LEOPARDS,Angelo Rubino,4,OK,23/10/2027,NO,,Firma da Golee
 LEOPARDS,Shaidul Abdul,6,OK,13/01/2027,NO,,Firma da Golee
 LEOPARDS,Salvo Mastrolembo,7,OK,22/12/2026,OK,19/01/2027,Firma Estratta
@@ -402,6 +402,7 @@ PHOENIX,Cristian Pennino,69,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 PIRANHA,Stefano Alfano,7,OK,15/10/2027,NO,,Firma da Golee
 PIRANHA,Giuseppe D'amico,9,OK,,OK,,Firma Estratta
 PIRANHA,Matteo Cammarata,10,OK,15/10/2027,NO,,Firma da Golee
+PIRANHA,Angelo D'anna,11,OK,24/11/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PIRANHA,Giuseppe D'amaro,20,OK,21/01/2027,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma da Golee
 PIRANHA,Salvo Di bella,21,OK,15/10/2027,NO,,Firma da Golee
 PIRANHA,Alessandro D'anna (Capitano),24,OK,02/02/2027,RINNOVO IMMEDIATO,,Firma Estratta
@@ -435,6 +436,7 @@ RATS,Bryan Di giorgi,77,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 RHINOS,Giuseppe Sanfilippo,5,OK,12/10/2027,NO,,Firma da Golee
 RHINOS,Giuseppe Anello,7,OK,12/10/2027,NO,,Firma da Golee
 RHINOS,Fabio Meli,8,OK,,OK,,Firma Estratta
+RHINOS,Pietro Patellaro,9,OK,,TESSERAMENTO SUCCESSIVO AL 22 OTT,,Firma Estratta
 RHINOS,Angelo Galati,10,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 RHINOS,Christopher Ciprì,11,OK,,RINNOVO IMMEDIATO,,Firma Estratta
 RHINOS,Gaetano Passantino,17,OK,12/10/2027,NO,,Firma da Golee
